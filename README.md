@@ -23,3 +23,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mzusi/NxHood/refs/hea
 - **.aura range [number]** - Set the aura range.
 - **.w add [name]** - Add a player to the whitelist.
 - **.w remove [name]** - Remove a player from the whitelist.
+- **.b [name]** - Bring a player to you.
+- **.allow [name]** - Allow a player to use commands(Stomp, Bring and Kill).
+- **.unallow [name]** - Remove a player from the allowed list.
