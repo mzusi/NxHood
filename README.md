@@ -1,6 +1,6 @@
 # NxHood
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HWYkagiru/NxHood/refs/heads/main/NxHood.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mzusi/NxHood/refs/heads/main/NxHood.lua", true))()
 ```
 
 ---
