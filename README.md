@@ -26,3 +26,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mzusi/NxHood/refs/hea
 - **.b [name]** - Bring a player to you.
 - **.allow [name]** - Allow a player to use commands(Stomp, Bring and Kill).
 - **.unallow [name]** - Remove a player from the allowed list.
+- **.who on/off** - Teleport to you.
